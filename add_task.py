@@ -10,6 +10,4 @@ if __name__ == "__main__":
 
 def add_task(task):
     print(f'Adding task: {task}')
-    # This line will cause a conflict
     print("Task added successfully!")
-
